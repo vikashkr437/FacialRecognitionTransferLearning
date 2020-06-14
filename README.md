@@ -1,5 +1,5 @@
 # FacialRecognitionTransferLearning
-
+### This Project or task is meant to demonstrate the use of Transfer Learning
 
 ## **COLLECTION OF DATA**
 #### The First Task is to collect the image and make a dataset with it for this we use the following CV2 code hich collects 15 images particularly of the face using the HaarCascade model
