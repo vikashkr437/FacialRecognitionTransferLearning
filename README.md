@@ -1,5 +1,5 @@
 # FacialRecognitionTransferLearning
-### This task is meant to demonstrate the use of Transfer Learning. I have used mobileNet pretrained model which is a very popular model for detection of 100+ objects. Here I have used to train it on images from http://www.anefian.com/research/face_reco.htm and my images. The model trains on 12 images of 4 subjects and tests on 3 images each of these 4 subjects.Lets go ahesd and see how the code works.
+### This task is meant to demonstrate the use of Transfer Learning for Facial Recognition. I have used mobileNet pretrained model which is a very popular model for detection of 100+ objects. Here I have used to train it on images from http://www.anefian.com/research/face_reco.htm and my images. The model trains on 12 images of 4 subjects and tests on 3 images each of these 4 subjects.Lets go ahesd and see how the code works.
 
 ## **COLLECTION OF FACIAL DATA**
 #### The First Task is to collect the image and make a dataset with it for this we use the following CV2 code hich collects 15 images particularly of the face using the HaarCascade model
