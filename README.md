@@ -38,7 +38,7 @@
 
 ## **SOME SAMPLE RESULTS**
 
-![RESULT1]https://github.com/vikashkr437/FacialRecognitionTransferLearning/blob/master/Sceenshot/1.png)
+![RESULT1](https://github.com/vikashkr437/FacialRecognitionTransferLearning/blob/master/Sceenshot/1.png)
 ![REUSULT2](https://github.com/vikashkr437/FacialRecognitionTransferLearning/blob/master/Sceenshot/2.png)
 
 ![RESULT3](https://github.com/vikashkr437/FacialRecognitionTransferLearning/blob/master/Sceenshot/Annotation%202020-06-06%20145539.png)
